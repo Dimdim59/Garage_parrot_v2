@@ -20,6 +20,7 @@ try {
 }
 
 // Définir les variables du formulaire
+
 $email = $_POST['email'];
 $mot_de_passe_saisi = $_POST['mot_de_passe'];
 
